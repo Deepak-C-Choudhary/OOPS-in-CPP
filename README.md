@@ -19,7 +19,7 @@ This repository contains a comprehensive collection of C++ programs demonstratin
 
 - This repository covers the following concepts:
 
--Classes and Objects: Basics of creating classes and instantiating objects (01_basic.cpp, 02_objcreation.cpp).
+- Classes and Objects: Basics of creating classes and instantiating objects (01_basic.cpp, 02_objcreation.cpp).
 
 - Access Modifiers: Usage of private, public, and protected specifiers (03_accessmodifier.cpp, 04_changeaccess.cpp).
 
